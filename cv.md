@@ -1,13 +1,7 @@
-## Alexey Podjelskiy
-### Junior Front-end developer
+# Alexey Podjelskiy  
 
----
-
-## About me:
-
+## About me:  
 I'd describe myself as a detail oriented person who loves challenges and enjoys finding solutions to presented problems. Interested in active teamwork, improving current skills and learning new technologies, achieving the best results.
-
----
 
 ## Contacts:
 
@@ -18,8 +12,6 @@ Email: podjelskiy@gmail.com
 Linkedin: [alexpodjelskiy](https://linkedin.com/in/alexpodjelskiy)
 
 GitHub: [alexpodjelskiy](https://github.com/alexpodjelskiy)
-
----
 
 ## Skills:
 
@@ -32,8 +24,6 @@ GitHub: [alexpodjelskiy](https://github.com/alexpodjelskiy)
 - Redux
 - Redux Toolkit
 - Typescript
-
----
 
 ## Code example:
 
@@ -63,7 +53,6 @@ const pigIt = (str) => {
   }).join(' ')
 }
 ```
----
 
 ## Education:
 
@@ -73,8 +62,6 @@ const pigIt = (str) => {
   Faculty of Law (BA)
 * __Courses__
   * [TeachMeSkills](https://teachmeskills.by/) (Oct. 2021 - Jule 2022) 
-
----
 
 ## Languages:
 
