@@ -68,8 +68,4 @@ const pigIt = (str) => {
 - Russian - native
 - English - B1 (according to the online test at [EFSET.org](https://efset.org))
 
-![english level](./efset.jpg)
-
-
-
-
+![english level](./img/efset.jpg)
