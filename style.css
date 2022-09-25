@@ -36,13 +36,6 @@ body {
   gap: 16px;
 }
 
-.header__photo {
-  width: 154px;
-  height: 154px;
-  border-radius: 50%;
-  background: url(./img/photo.jpg) no-repeat center/cover;
-}
-
 .header__name {
   font-family: 'Inter';
   font-style: normal;
