@@ -29,7 +29,7 @@ body {
   width: 154px;
   height: 154px;
   border-radius: 50%;
-  background: url(/img/photo.jpg) no-repeat center/cover;
+  background: url(./img/photo.jpg) no-repeat center/cover;
 }
 
 .header__person-details-container {
